@@ -41,3 +41,21 @@ html, body {
     text-align: center;
   }
 /* controller --end */
+
+.img-figure {
+  width: 320px;
+  height: 360px;
+  margin: 0px;
+  padding: 40px;
+  position: absolute;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.img-figure figcaption {
+  text-align: center;
+}
+.img-figure figcaption .img-title{
+  margin:20px 0 0 0;
+  color: #a7a0a2;
+  font-size:16px;
+}
